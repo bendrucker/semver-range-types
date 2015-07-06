@@ -1,7 +1,7 @@
 {
   "name": "semver-range-types",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse the semver range types from a dependencies object",
   "license": "MIT",
   "repository": "bendrucker/semver-range-types",
